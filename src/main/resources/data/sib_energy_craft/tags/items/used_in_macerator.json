@@ -6,6 +6,7 @@
     "minecraft:gravel",
     "minecraft:quartz_block",
     "minecraft:cobblestone",
+    "minecraft:stone",
     "#minecraft:wool"
   ]
 }

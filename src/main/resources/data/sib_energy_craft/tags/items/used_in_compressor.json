@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "sib_energy_craft:coal_ball",
-    "sib_energy_craft:coal_chunk"
+    "sib_energy_craft:coal_chunk",
+    "minecraft:blaze_powder"
   ]
 }

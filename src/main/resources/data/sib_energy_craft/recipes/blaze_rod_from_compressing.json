@@ -1,0 +1,12 @@
+{
+  "type": "sib_energy_craft:compressing",
+  "ingredient": {
+    "item": "minecraft:blaze_powder",
+    "count": 5
+  },
+  "result": {
+    "item": "minecraft:blaze_rod"
+  },
+  "experience": 0,
+  "cookingTime": 100
+}
