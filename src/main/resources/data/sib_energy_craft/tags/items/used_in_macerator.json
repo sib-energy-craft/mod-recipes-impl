@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:blaze_rod",
+    "minecraft:bone",
+    "minecraft:gravel",
+    "minecraft:quartz_block",
+    "minecraft:cobblestone",
+    "#minecraft:wool"
+  ]
+}

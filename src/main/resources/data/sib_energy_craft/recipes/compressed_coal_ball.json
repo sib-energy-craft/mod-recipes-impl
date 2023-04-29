@@ -1,0 +1,11 @@
+{
+  "type": "sib_energy_craft:compressing",
+  "ingredient": {
+    "item": "sib_energy_craft:coal_ball"
+  },
+  "result": {
+    "item": "sib_energy_craft:compressed_coal_ball"
+  },
+  "experience": 0.05,
+  "cookingTime": 100
+}

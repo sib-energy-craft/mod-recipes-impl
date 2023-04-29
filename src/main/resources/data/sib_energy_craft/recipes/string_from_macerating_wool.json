@@ -1,0 +1,14 @@
+{
+  "type": "sib_energy_craft:macerating",
+  "ingredient": [
+    {
+      "tag": "minecraft:wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:string",
+    "count": 2
+  },
+  "experience": 0,
+  "cookingTime": 100
+}

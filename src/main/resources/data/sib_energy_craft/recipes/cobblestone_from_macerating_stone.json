@@ -1,0 +1,14 @@
+{
+  "type": "sib_energy_craft:macerating",
+  "ingredient": [
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  },
+  "experience": 0,
+  "cookingTime": 100
+}

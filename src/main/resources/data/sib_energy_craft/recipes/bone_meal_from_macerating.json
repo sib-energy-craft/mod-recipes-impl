@@ -1,0 +1,14 @@
+{
+  "type": "sib_energy_craft:macerating",
+  "ingredient": [
+    {
+      "item": "minecraft:bone"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 4
+  },
+  "experience": 0,
+  "cookingTime": 100
+}

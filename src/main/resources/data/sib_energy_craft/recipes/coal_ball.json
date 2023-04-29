@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#F#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sib_energy_craft:coal_dust"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "sib_energy_craft:coal_ball"
+  }
+}

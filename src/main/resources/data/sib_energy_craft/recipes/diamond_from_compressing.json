@@ -1,0 +1,11 @@
+{
+  "type": "sib_energy_craft:compressing",
+  "ingredient": {
+    "item": "sib_energy_craft:coal_chunk"
+  },
+  "result": {
+    "item": "minecraft:diamond"
+  },
+  "experience": 0.05,
+  "cookingTime": 100
+}
