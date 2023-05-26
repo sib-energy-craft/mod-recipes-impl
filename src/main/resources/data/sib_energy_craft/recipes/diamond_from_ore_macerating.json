@@ -1,0 +1,14 @@
+{
+  "type": "sib_energy_craft:macerating",
+  "ingredient": [
+    {
+      "item": "minecraft:diamond_ore"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 2
+  },
+  "experience": 0.1,
+  "cookingTime": 100
+}
