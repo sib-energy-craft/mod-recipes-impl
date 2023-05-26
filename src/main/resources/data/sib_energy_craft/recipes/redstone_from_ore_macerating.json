@@ -1,0 +1,14 @@
+{
+  "type": "sib_energy_craft:macerating",
+  "ingredient": [
+    {
+      "item": "minecraft:redstone_ore"
+    }
+  ],
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 6
+  },
+  "experience": 0.1,
+  "cookingTime": 100
+}
