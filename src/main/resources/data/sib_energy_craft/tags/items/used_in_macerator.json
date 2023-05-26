@@ -9,6 +9,8 @@
     "minecraft:stone",
     "#minecraft:wool",
     "minecraft:coal_ore",
-    "minecraft:deepslate_coal_ore"
+    "minecraft:deepslate_coal_ore",
+    "minecraft:lapis_ore",
+    "minecraft:deepslate_lapis_ore"
   ]
 }
