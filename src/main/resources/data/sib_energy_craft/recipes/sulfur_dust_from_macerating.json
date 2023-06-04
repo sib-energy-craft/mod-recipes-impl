@@ -2,7 +2,7 @@
   "type": "sib_energy_craft:macerating",
   "ingredient": [
     {
-      "tag": "sib_energy_craft:sulfur"
+      "item": "sib_energy_craft:sulfur"
     }
   ],
   "result": {
