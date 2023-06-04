@@ -18,6 +18,7 @@
     "minecraft:deepslate_diamond_ore",
     "minecraft:emerald_ore",
     "minecraft:deepslate_emerald_ore",
-    "minecraft:nether_quartz_ore"
+    "minecraft:nether_quartz_ore",
+    "sib_energy_craft:sulfur"
   ]
 }
