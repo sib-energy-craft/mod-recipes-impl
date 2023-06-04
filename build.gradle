@@ -32,6 +32,7 @@ dependencies {
 
     modImplementation("com.github.sib-energy-craft:mod-recipes:${project.sec_mod_recipes_version}")
     modImplementation("com.github.sib-energy-craft:mod-energy-items:${project.sec_mod_energy_items_version}")
+    modImplementation("com.github.sib-energy-craft:mod-ores:${project.sec_mod_ores_version}")
 }
 
 tasks.withType(JavaCompile).configureEach {
